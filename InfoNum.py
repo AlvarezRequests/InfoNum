@@ -1,6 +1,6 @@
 import requests
 from getpass import _raw_input
- import Fore, init
+ import Fore
 
 
 api = '510f8c00e437e5c107b8629d2fe5ca20'
